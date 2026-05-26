@@ -1,0 +1,14 @@
+{
+  "name": "news",
+  "short_name": "news",
+  "description": "RSS/Atom feed reader for your Solid pod — subscribe, read a unified list, save to bookmarks. Subscriptions sync to your pod.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#2a3140",
+  "theme_color": "#2a3140",
+  "handles": ["url"],
+  "icons": [
+    { "src": "favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
